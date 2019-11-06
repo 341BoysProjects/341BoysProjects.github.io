@@ -1,5 +1,5 @@
 ## Hack OHI/O 2019 Project
-Repository for the Hack OHI/O Hackathon 2019
+Repository for work on our Hack OHI/O Hackathon 2019 project. This is work we will do after the event is over and will be done outside the 24-hours allowed during the event.
 
 
 ## Introduction
